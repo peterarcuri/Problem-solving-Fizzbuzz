@@ -1,3 +1,18 @@
+// Pseudocode(Fizzbuzz)
+
+// write a function called Fizzbuzz
+// takes positive number (n) that is less than 100 (create for loop)
+
+// if not a positive integer then print "Error"
+
+// (Conditionals)
+// if divisible by 3 and divisible by 5 then print "Fizzbuzz";
+// if divisible by 3 then print "Fizz";
+// if divisible by 5 then print "Buzz";
+
+// if not divisible by both 3 and 5 then print the number i(index of n);
+
+
 
 function fizzbuzz(n) {
 
